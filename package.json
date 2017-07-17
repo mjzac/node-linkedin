@@ -1,6 +1,6 @@
 {
   "name": "node-linkedin",
-  "version": "0.5.0",
+  "version": "0.5.6",
   "description": "LinkedIn 2.0 compatible wrapper in node.js",
   "main": "lib/main",
   "scripts": {
@@ -25,8 +25,8 @@
   },
   "homepage": "https://github.com/ArkeologeN/node-linkedin",
   "dependencies": {
-    "lodash": "~2.4.1",
-    "request": "~2.31.0",
-    "oauth": "~0.9.12"
+    "lodash": "^4.17.4",
+    "oauth": "~0.9.12",
+    "request": "^2.74.0"
   }
 }
